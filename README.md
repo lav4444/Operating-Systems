@@ -1,14 +1,14 @@
 # Operating-Systems
 In this repository I'm sharing codes that were part of Operating Systems subject at my collage (Zagreb Faculty of Electrical Engineering and Computing).
 
-C languge
-UNIX
-LINUX
+C languge,
+UNIX,
+LINUX,
 Virtual machine
 
-Signals
-Multithreading
-Processes and Threads (Dekker's algorithm, Lamport's algorithm)
+Signals,
+Multithreading,
+Processes and Threads (Dekker's algorithm, Lamport's algorithm),
 Semaphores and Monitors (sleepy barber problem, problem of cannibals and missionaries)
 
 Operating system roles, Interfaces, Computer and operating system components, Design issues
